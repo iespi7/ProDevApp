@@ -1,0 +1,16 @@
+<resources>
+  <string name="app_name">ProDevApp</string>
+  <string name="elevator_pitch">Hi, my name is Ivan. I am looking to provide a better life for my family while working in an industry I truly enjoy. I have decided to learn Java/Android/Salesforce by attending the Deep Dive Coding Bootcamp offered through CNM Ingenuity. Do you provide opportunities for aspiring developers such as myself?</string>
+  <string name="golden_circle">golden_circle</string>
+  <string name="quantitative_qualitative">Quantitative:\n
+1.	I held my previous job for four years.\n
+2.	I ran my credit union’s teller line and successfully managed up to eight people at once.\n
+3.	Responsible enough to handle $500k or more in cash.\n
+Qualitative:\n
+1.	Capable of staying calm under pressure.\n
+2.	Great listener and trustworthy.\n
+3.  Easy to get along with.\n
+</string>
+  <string name="balancing_left_right">I have always enjoyed math and science. Both subjects were my favorites in school. However, back in fifth grade, I was fortunate enough that my elementary school had a music program. I joined the orchestra and learned to play the cello. Needless to say, I fell in love with the instrument
+  and decided to play through high school. I strongly feel that the balance between arts and sciences had a positive effect in my development.</string>
+</resources>
